@@ -1,2 +1,2 @@
 # ml-accelerometer
-predicting accelerometer data failed
+predicting wcodid accelerometer
